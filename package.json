@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-Torres/twitter-bot.git"
+  },
+  "author": "Joel Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel-Torres/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Joel-Torres/twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "twit": "^2.2.11"
+  }
+}
